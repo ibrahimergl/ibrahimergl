@@ -1,8 +1,5 @@
 # About Me:
-I’m currently working on web development<br>⚡ open source development
-
-I have experience in C, C++, Python, HTML, CSS, and JavaScript.. I have a special interest in open source software; I frequently replace the software I use with open source alternatives. I am interested in web development. I often use artificial intelligence in my development projects.
-
+Still alive
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-ibrahim-eroglu) 
 
