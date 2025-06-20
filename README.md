@@ -1,5 +1,8 @@
 # About Me:
-Still alive
+Hello, I am Ibrahim. I am working on improving myself in the field of cybersecurity and contributing to open-source software. I believe that cybersecurity is of serious importance for the protection of systems and data, and I continuously strive to enhance my knowledge and skills in this area.
+I have a deep interest in open-source software and value actively participating in these projects, collaborating with communities, and contributing. During this process, I have had the opportunity to learn more about software development and security practices.
+To contribute to open-source software, it is also necessary to have knowledge in web development, so I have some knowledge in web development and I am working on improving myself in this area.
+Cybersecurity is a field that requires continuous learning and development. Therefore, I keep up with new technologies and try to learn best practices. The programming languages I am interested in: Python, [HTML, CSS, JS], C++, C
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-ibrahim-eroglu) 
 
